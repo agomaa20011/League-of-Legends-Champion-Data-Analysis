@@ -37,6 +37,16 @@ this dataset is sourced from kaggle datasets
 
 ![Top pciked champions](https://github.com/agomaa20011/League-of-Legends-Champion-Data-Analysis/blob/main/Visuals/meta.png)
 
+
+## Interactive Dashboard using power bi
+
+![dashboard](https://github.com/agomaa20011/League-of-Legends-Champion-Data-Analysis/blob/main/dashboard/GENERAL%20DASHBOARD.PNG)
+
+![dashboard](https://github.com/agomaa20011/League-of-Legends-Champion-Data-Analysis/blob/main/dashboard/GENERAL%20DASHBOARD%202.PNG)
+
+![dashboard](https://github.com/agomaa20011/League-of-Legends-Champion-Data-Analysis/blob/main/dashboard/GENERAL%20DASHBOARD%203.PNG)
+
+
 ![ban rate by role](https://github.com/agomaa20011/League-of-Legends-Champion-Data-Analysis/blob/main/Visuals/ban%20rate%20by%20role%20prediction.png)
 
 ![actual vs. predicted ban rate](https://github.com/agomaa20011/League-of-Legends-Champion-Data-Analysis/blob/main/Visuals/actual%20vs%20predicted%20ban%20rate.png)
