@@ -1,6 +1,9 @@
 # League-of-Legends-Champion-Data-Analysis
 
-<p align="center"> ![Logo](https://github.com/agomaa20011/League-of-Legends-Champion-Data-Analysis/blob/main/League%20Of%20Legends.png) </p>
+<p align="center">
+    <img width="200" src="https://github.com/agomaa20011/League-of-Legends-Champion-Data-Analysis/blob/main/League%20Of%20Legends.png">
+</p>
+
 
 This repository contains an analysis of League of Legends (LoL) champion data using a dataset that includes various attributes of the champions such as win rate, ban rate, popularity, and role. The analysis is performed using Python and various data science libraries such as Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn.
 
