@@ -1,7 +1,7 @@
 # League-of-Legends-Champion-Data-Analysis
 
 <p align="center">
-    <img width="200" src="https://github.com/agomaa20011/League-of-Legends-Champion-Data-Analysis/blob/main/League%20Of%20Legends.png">
+    <img width="400" src="https://github.com/agomaa20011/League-of-Legends-Champion-Data-Analysis/blob/main/League%20Of%20Legends.png">
 </p>
 
 
